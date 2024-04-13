@@ -8,7 +8,7 @@ Client and server that will accept and send messages or files.
 ## Requirements
 To run, you will need to have the following installed:
 
-    - GNU C++ Compiler (GCC) - You can install GCC through MSYS2
+    - GNU C/C++ Compiler (GCC) - You can install GCC through MSYS2
     - MSYS2: https://www.msys2.org/
 
 ## How to Install
