@@ -8,7 +8,8 @@ Client and server that will accept and send messages or files.
 ## Requirements
 To run, you will need to have the following installed:
 
-    -C++ Compiler
+    - GNU C++ Compiler (GCC) - You can install GCC through MSYS2
+    - MSYS2: https://www.msys2.org/
 
 ## How to Install
 ### Step 1: Clone Repo and Insert your own IPV4 Address and Port. 
