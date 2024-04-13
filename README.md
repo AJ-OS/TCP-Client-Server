@@ -20,3 +20,8 @@ To run, you will need to have the following installed:
 ### Step 3: Compile each script with terminal (Unix-like) or PowerShell (Windows) with administrative access.
 ![ex](tcp-1.png)
 
+
+## To-Do
+- SSL/TLS encryption
+- Concurrency
+- Queue System
